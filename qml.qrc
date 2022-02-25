@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/CloseBtn.qml</file>
+        <file>qml/Content.qml</file>
+        <file>qml/DropImage.qml</file>
+    </qresource>
+</RCC>
